@@ -22,7 +22,7 @@ Esta é uma lista de alguns projetos de aprendizado de máquina em que trabalhei
 
   
 
-![Image header](Pictures/fundos-imobiliarios-como-comecar-a-investir.jpg)
+![Image header](Fotos/fundos-imobiliarios-como-comecar-a-investir.jpg)
 
   
 
