@@ -81,11 +81,17 @@ Pandas | Seaborn | Numpy | Sklearn | Modelos estatísticos | matplotlib | Seabor
 
 
 data - Data
+
 temp_media - Temperatura Média (°C)
+
 temp_min - Temperatura Mínima (°C)
+
 temp_max - Temperatura Máxima (°C)
+
 chuva - Precipitação (mm)
+
 fds - Final de Semana (1 = Sim; 0 = Não)
+
 consumo - Consumo de Cerveja (litros)
 
   
