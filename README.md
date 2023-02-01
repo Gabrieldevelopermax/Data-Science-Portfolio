@@ -77,7 +77,6 @@ Pandas | Seaborn | Numpy | Sklearn | Matplotlib | Seaborn | Pickle
 
 ## Dataset
 
-## Conjunto de dados
 
 
 data - Data
