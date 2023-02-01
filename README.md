@@ -64,13 +64,13 @@ O objetivo deste projeto é usar a técnica de Regressão Linear em Aprendizado 
 
 Os dados (amostra) foram coletados em São Paulo - Brasil, em uma área universitária, onde existem algumas festas com grupos de alunos de 18 a 28 anos de idade (média).
 
-Fonte: https://www.kaggle.com/dongeorge/beer-consumption-sao-paul.
+Fonte: https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo.
 
   
 
 ## Bibliotecas utilizadas
 
-Pandas | Seaborn | Numpy | Sklearn | Modelos estatísticos | matplotlib | Seaborn | Salmoura
+Pandas | Seaborn | Numpy | Sklearn | Matplotlib | Seaborn | Pickle
 
   
 
