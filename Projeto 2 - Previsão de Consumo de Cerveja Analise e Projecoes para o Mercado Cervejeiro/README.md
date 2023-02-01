@@ -2,7 +2,7 @@
 
   
 
-![Image header](Fotos/consumo-de-cerveja.jpg)
+![Image header](../Fotos/consumo-de-cerveja.jpg)
 
   
 
