@@ -74,7 +74,11 @@ Pandas | Seaborn | Numpy | Sklearn | Modelos estatísticos | matplotlib | Seabor
 
   
 
+
 ## Dataset
+
+## Conjunto de dados
+
 
 data - Data
 temp_media - Temperatura Média (°C)
