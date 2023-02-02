@@ -164,7 +164,7 @@ consumo - Consumo de Cerveja (litros)
 
   
 
-### 3. [ Detecção de Fraudes em Transações com Cartão de Crédito ](https://github.com/Gabrieldevelopermax/Data-Science-Portfolio/tree/main/Projeto%202%20-%20Previs%C3%A3o%20de%20Consumo%20de%20Cerveja%20Analise%20e%20Projecoes%20para%20o%20Mercado%20Cervejeiro) :credit_card:
+### 3. [ Detecção de Fraudes em Transações com Cartão de Crédito ](https://github.com/Gabrieldevelopermax/Data-Science-Portfolio/tree/main/Projeto%203-%20Detec%C3%A7%C3%A3o%20de%20Fraudes%20em%20Transa%C3%A7%C3%B5es%20com%20Cart%C3%A3o%20de%20Cr%C3%A9dito) :credit_card:
 
   
 
@@ -195,7 +195,7 @@ Fonte: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
   
 
-Pandas | Numpy | Sklearn | MatplotlibGenericNameName
+Pandas | Numpy | Sklearn | Matplotlib
 
   
 
