@@ -206,6 +206,9 @@ Pandas | Numpy | Sklearn | Matplotlib
 
   
 Amount - Valor da transação
+
 Time- Número de segundos decorridos entre esta transação e a primeira transação no conjunto de dados
+
 Class- 1 (fraude) - 0 (Verdadeira)
+
 V1 V28- Atributos transformados em PCA
