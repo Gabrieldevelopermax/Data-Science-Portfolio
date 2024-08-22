@@ -8,7 +8,7 @@
 
   
 
-Meu nome é Marcos Gabriel Miranda Flor, sou formado em Análise e Desenvolvimento de Sistemas sou amante de tecnonologia e tenho conhecimento em uma grande variedade de tecnologias para saber mais informações da minha jornada pode ser encontrada, [Meu Linkedin](https://www.linkedin.com/in/marcos-gabriel-miranda-flor-1ba526170/), [Currículo](https://docs.google.com/document/d/1BkUhr98SZ4WFlJt3aQ8DXDqPlJhmINwB/edit?usp=share_link&ouid=110317353623796145294&rtpof=true&sd=true).
+Meu nome é Marcos Gabriel Miranda Flor, sou formado em Análise e Desenvolvimento de Sistemas sou amante de tecnonologia e tenho conhecimento em uma grande variedade de tecnologias para saber mais informações da minha jornada pode ser encontrada, [Meu Linkedin](https://www.linkedin.com/in/marcos-gabriel-miranda-flor-1ba526170/), [Currículo](https://drive.google.com/file/d/1cW7aYsD2OMC-8pp_dKLcZjv_TmqZBqki/view?usp=sharing).
 
   
 
